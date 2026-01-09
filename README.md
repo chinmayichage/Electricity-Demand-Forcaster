@@ -1,6 +1,6 @@
 # 📊 Data Science Portfolio: Electricity Demand Forecasting
 
-## ⚡ Project 2: Electricity Demand Forecaster
+## ⚡ Project: Electricity Demand Forecaster
 A time-series forecasting project designed to predict energy consumption.
 * **Skills:** Feature Engineering, XGBoost, Time-Series Analysis.
 * **Highlights:** * Advanced timestamp parsing with custom date formats.
